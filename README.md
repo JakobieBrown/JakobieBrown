@@ -1,7 +1,7 @@
-# Hi there! 👋 I'm [Jakobie Brown]  
+# Hi there! 👋 I'm Jakobie Brown  
 
-🎓 **Student | [Computer Science] at [University of Southern Indiana]**  
-💡 **Aspiring [Software Developer, Educator, Game Designer]**  
+🎓 **Student | Computer Science at University of Southern Indiana**  
+💡 **Aspiring Software Developer, Educator, Game Designer**  
 
 <!--
 📌 **Passionate about []**  
