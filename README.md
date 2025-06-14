@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Jakobie Brown  
+# Jakobie Brown  
 
 🎓 **Student | Computer Science at University of Southern Indiana**  
 💡 **Aspiring Software Developer, Educator, Game Designer**  
